@@ -1,7 +1,7 @@
 import java.lang.Math;
 import java.util.*;
 import java.io.*;
-class hello{
+class InputInArray{
 	public static void main(String[] args) throws IOException{ 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
